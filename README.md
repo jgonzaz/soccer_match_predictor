@@ -1,4 +1,4 @@
-# soccer_match_predictor
+# Soccer Match Predictor
 
 Steps:
 1. Scrap soccer match data from fbref
